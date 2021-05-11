@@ -1,0 +1,22 @@
+{
+  "name": "example-repo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "/example-repo",
+  "scripts": {
+    "dev": "vuepress --no-clear-screen dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "vuepress-bar": "^0.3.6"
+  }
+}
