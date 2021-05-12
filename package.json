@@ -17,6 +17,6 @@
     "vuepress": "^1.5.3"
   },
   "dependencies": {
-    "vuepress-bar": "^0.3.6"
+    "vuepress-bar": "^0.4.1"
   }
 }
